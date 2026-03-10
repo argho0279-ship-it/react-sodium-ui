@@ -37,6 +37,23 @@ Ensure the following are installed in your project:
 
 ---
 
+## 📦 NPM Package
+
+Install **Pulser UI** from npm:
+
+👉 https://www.npmjs.com/package/@covert/pulser-ui
+---
+
+## 🌐 Live Demo
+
+Experience **Pulser UI** in action.
+
+🔗 **Live Website:** https://pulser-ui-one.vercel.app
+
+Pulser UI is a modern React component library designed to help developers build beautiful interfaces faster. It provides reusable, clean, and well-structured components built with modern frontend practices.
+
+---
+
 ## 🚀 Quick Start
 
 **1. Install Tailwind CSS v4:**
@@ -606,13 +623,7 @@ Contributions are welcome! Please feel free to open a Pull Request or file an is
 
 ---
 
-## 🌐 Live Demo
 
-Experience **Pulser UI** in action.
-
-🔗 **Live Website:** https://pulser-ui-one.vercel.app
-
-Pulser UI is a modern React component library designed to help developers build beautiful interfaces faster. It provides reusable, clean, and well-structured components built with modern frontend practices.
 
 ### ✨ What you can explore
 
@@ -625,11 +636,5 @@ Pulser UI is a modern React component library designed to help developers build 
 Visit the demo site to preview components, explore the design system, and see how **Pulser UI** can accelerate your development workflow.
 ---
 
-## 📦 NPM Package
-
-Install **Pulser UI** from npm:
-
-👉 https://www.npmjs.com/package/@covert/pulser-ui
----
 
 Built with ❤️ using React
